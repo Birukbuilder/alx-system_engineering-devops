@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ur source_directory/*.{html`} target_directory
+cp -ur source_directory/*.{html} target_directory
