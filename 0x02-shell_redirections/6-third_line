@@ -1,2 +1,2 @@
 #!/bin/bash
-awk : $>awk ‘{if(NR==LINE_NUMBER) print $0}’ icata
+head -n 3 iacta | tail -n 1
